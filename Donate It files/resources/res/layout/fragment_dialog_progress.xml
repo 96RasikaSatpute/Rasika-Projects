@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="horizontal" android:background="@drawable/shape_progress_dialog" android:paddingLeft="20dp" android:paddingTop="30dp" android:paddingRight="20dp" android:paddingBottom="30dp" android:layout_width="match_parent" android:layout_height="wrap_content">
-    <com.github.ybq.android.spinkit.SpinKitView android:layout_gravity="center" android:id="@+id/spinKitSplash" android:layout_width="wrap_content" android:layout_height="wrap_content" app:SpinKit_Color="#020202" style="@style/SpinKitView.DoubleBounce"/>
-    <TextView android:textSize="14sp" android:textColor="@color/black_02" android:id="@+id/txtProgressDialog" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:text="TextView" android:fontFamily="@font/quattrocento_sans"/>
-</LinearLayout>
